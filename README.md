@@ -145,3 +145,23 @@ build on — and the `skills/` folder here is the instruction library for your A
 ---
 
 *Track leads: Mirza Ašćerić (ML) · Hole (data engineering). Code under MIT (see `LICENSE`); data under `DATA_USE.md`.*
+
+---
+
+## My Progress
+
+### Assignment 1
+- Completed Notebook 1: Data Exploration and Discovery
+- Completed Notebook 2: Decision Tree Modeling
+- Compared Decision Trees with different `max_depth` values
+- Evaluated feature engineering by replacing `impressions_90d` with `engagement_rate`
+- Compared Precision@50 using both in-sample evaluation and a train/test split
+
+### Technologies
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Google Colab
+
+**Author:** Dawood Ahmad
